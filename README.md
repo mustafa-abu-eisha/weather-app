@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/weather-app)
+- [Solution URL Here](https://github.com/mustafa-abu-eisha/weather-app)
 - [Live Site URL Here](https://weather-api-app.pages.dev/)
 
 ## My process
@@ -54,5 +54,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [GitHub Profile Here](https://github.com/AbuEisha)
-- [Frontend Mentor Profile Here](https://www.frontendmentor.io/profile/AbuEisha)
+- Website - [GitHub Profile Here](https://github.com/mustafa-abu-eisha)
+- [Frontend Mentor Profile Here](https://www.frontendmentor.io/profile/mustafa-abu-eisha)
